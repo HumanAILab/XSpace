@@ -1,0 +1,56 @@
+#c {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    z-index: -1;
+}
+
+#viewContainer {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.sceneView {
+    float: left;
+    width: calc(35% - 20px);
+    height: 400px;
+    margin: 10px;
+    padding: 0;
+}
+
+.objectView {
+    float: left;
+    width: calc(30% - 20px);
+    height: 190px;
+    margin: 10px;
+    padding: 0;
+}
+
+#controls {
+    float: left;
+    width: calc(100% - 20px);
+    margin: 10px;
+}
+
+#controls .button {
+    font-size: small;
+    width: 87.5px;
+    height: 50px;
+    white-space: normal;
+    margin-right: 10px;
+    display: none; 
+}
+
+#setOrientation {
+    float: right;
+}
+
+#confirm {
+    float: right;
+    margin-top: 10px;
+}

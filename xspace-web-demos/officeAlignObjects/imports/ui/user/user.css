@@ -1,0 +1,38 @@
+#cUser {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    z-index: -1;
+}
+
+#viewContainerUser {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.viewUser {
+    float: left;
+    width: calc(100% - 20px);
+    height: 400px;
+    margin: 10px;
+    padding: 0;
+}
+
+#controlsUser {
+    float: left;
+    width: calc(100% - 20px);
+    margin: 10px;
+}
+
+#controlsUser .button {
+    font-size: small;
+    width: 150px;
+    height: 50px;
+    white-space: normal;
+    margin-right: 10px;
+}

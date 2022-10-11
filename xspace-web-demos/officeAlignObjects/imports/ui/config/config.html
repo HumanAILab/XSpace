@@ -1,0 +1,23 @@
+<template name="App_config">
+    <p>Configuration Page</p>
+    <canvas id="c"></canvas>
+    <div id="viewContainer">
+        <div class="sceneView" id="viewA"></div>
+        <div class="sceneView" id="viewB"></div>
+        <div class="objectView" id="viewAObject"></div>
+        <div class="objectView" id="viewBObject"></div>
+    </div>
+    <div id="controls">
+        <input type="button" class="button" id="selectA" value="Select from A" />
+        <input type="button" class="button" id="selectB" value="Select from B" />
+        <input type="button" class="button" id="clearA" value="Clear A Selected" />
+        <input type="button" class="button" id="clearB" value="Clear B Selected" />
+        <input type="button" class="button" id="shareA" value="Share A Selected" />
+        <input type="button" class="button" id="shareB" value="Share B Selected" />
+        <input type="button" class="button" id="align" value="Align Selected" />
+        <input type="button" class="button" id="setOrientation" value="Set Object Orientation" />
+        <br />
+        <input type="button" class="button" id="confirm" value="Confirm" />
+        <p id="waitingMessage">Waiting for 2 players to join...</p>
+    </div>
+</template>

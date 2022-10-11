@@ -1,0 +1,1 @@
+{"head":"<title>Shared Coffee</title>","body":"","js":"\nTemplate.body.addContent((function() {\n  var view = this;\n  return HTML.Raw('<canvas id=\"c\"></canvas>\\n    <div id=\"viewContainer\">\\n        <div class=\"view\" id=\"viewFirst\"></div>\\n    </div>');\n}));\nMeteor.startup(Template.body.renderToDocument);\n","bodyAttrs":{}}

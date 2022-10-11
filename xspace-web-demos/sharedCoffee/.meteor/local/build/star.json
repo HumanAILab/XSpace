@@ -1,0 +1,25 @@
+{
+  "format": "site-archive-pre1",
+  "builtBy": "Meteor METEOR@1.11.1",
+  "programs": [
+    {
+      "name": "web.browser",
+      "arch": "web.browser",
+      "path": "programs/web.browser/program.json"
+    },
+    {
+      "name": "web.browser.legacy",
+      "arch": "web.browser.legacy",
+      "path": "programs/web.browser.legacy/program.json"
+    },
+    {
+      "name": "server",
+      "arch": "os",
+      "path": "programs/server/boot.js"
+    }
+  ],
+  "meteorRelease": "METEOR@1.11.1",
+  "nodeVersion": "12.18.4",
+  "npmVersion": "6.14.8",
+  "gitCommitHash": "d0bcbe483476b3497c55d0c57870c6862f840a7c"
+}

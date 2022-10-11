@@ -1,0 +1,20 @@
+<template name="App_player">
+    <p>Player Page {{_id}}</p>
+    <canvas id="cPlayer"></canvas>
+    <div id="viewContainerPlayer">
+        <div class="viewPlayer" id="viewFirstPlayer"></div>
+    </div>
+
+    {{> textModal}}
+</template>
+
+<template name="textModal">
+	<div id="myModal" class="textmodal">
+  		<div class="modal-content">
+			<form id="new-text">
+				<textarea id="textarea" autofocus required placeholder="Type here"></textarea>
+				<button class="btn" type="submit" val="text">SUBMIT</button>
+    		</form>
+    	</div>
+  	</div>
+</template>

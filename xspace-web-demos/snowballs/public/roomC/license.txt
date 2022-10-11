@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apartment Scanned with iPhone 12 Pro Lidar
+* source:	https://sketchfab.com/3d-models/apartment-scanned-with-iphone-12-pro-lidar-6ba68e345ec245e092fbd560b7c37679
+* author:	jayhersk (https://sketchfab.com/jayhersk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apartment Scanned with iPhone 12 Pro Lidar" (https://sketchfab.com/3d-models/apartment-scanned-with-iphone-12-pro-lidar-6ba68e345ec245e092fbd560b7c37679) by jayhersk (https://sketchfab.com/jayhersk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
